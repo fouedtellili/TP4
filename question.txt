@@ -1,0 +1,1269 @@
+
+Q1 : Comment puis-je créer un nouvel utilisateur ?
+R : Vous pouvez créer un nouvel utilisateur via le module d’administration ou en utilisant la commande “Ajouter utilisateur”.
+
+Q1: How can I create a new user?
+A: You can create a new user via the administration module or by using the “Add user” command.
+
+Q2 : Comment réinitialiser le mot de passe d’un utilisateur ?
+R : Rendez-vous dans l’espace utilisateur, sélectionnez l’utilisateur, puis cliquez sur “Réinitialiser le mot de passe”.
+
+Q2: How do I reset a user’s password?
+A: Go to the user area, select the user, then click on “Reset password”.
+
+Q3 : Qui peut modifier les permissions d’un utilisateur ?
+R : Seuls les administrateurs ont le droit de modifier les permissions utilisateurs.
+
+Q3: Who can change a user’s permissions?
+A: Only administrators have the right to change user permissions.
+
+Q4 : Comment consulter la liste des utilisateurs ?
+R : Accédez au menu “Utilisateurs” pour afficher la liste complète.
+
+Q4: How do I view the list of users?
+A: Go to the “Users” menu to display the full list.
+
+Q5 : Un utilisateur peut-il appartenir à plusieurs départements ?
+R : Oui, il est possible d’assigner plusieurs départements à un utilisateur selon son rôle.
+
+Q5: Can a user belong to multiple departments?
+A: Yes, it is possible to assign a user to several departments depending on their role.
+
+Q6 : Comment supprimer un utilisateur ?
+R : Sélectionnez l’utilisateur concerné puis cliquez sur “Supprimer”.
+
+Q6: How do I delete a user?
+A: Select the relevant user and click “Delete”.
+
+Q7 : Quels rôles utilisateurs existent dans le système ?
+R : Les rôles disponibles sont : administrateur, utilisateur standard, et invité.
+
+Q7: What user roles exist in the system?
+A: Available roles are: administrator, standard user, and guest.
+
+Q8 : Comment modifier les informations personnelles d’un utilisateur ?
+R : Accédez au profil utilisateur et cliquez sur “Modifier”.
+
+Q8: How can you edit a user’s personal information?
+A: Access the user profile and click “Edit”.
+
+Q9 : Puis-je importer une liste d’utilisateurs depuis un fichier ?
+R : Oui, l’import en masse est possible via un fichier CSV dans le menu d’administration.
+
+Q9: Can I import a list of users from a file?
+A: Yes, bulk import is possible via a CSV file in the admin menu.
+
+Q10 : Comment consulter les permissions d’un utilisateur ?
+R : Dans le profil utilisateur, consultez l’onglet “Permissions”.
+
+Q10: How do I view a user’s permissions?
+A: In the user profile, check the “Permissions” tab.
+
+Q11 : Quels types d’actifs sont gérés par le système ?
+R : Le système gère les applications, images d’entreprise, matériels, informations, personnes, serveurs et fournisseurs.
+
+Q11: What types of assets are managed by the system?
+A: The system manages applications, company images, hardware, information, people, servers, and suppliers.
+
+Q12 : Comment ajouter un nouvel actif ?
+R : Accédez au module “Gestion des actifs” et cliquez sur “Ajouter un actif”.
+
+Q12: How do I add a new asset?
+A: Go to the “Asset Management” module and click “Add asset”.
+
+Q13 : Puis-je associer un fichier à un actif ?
+R : Oui, chaque actif peut être associé à un ou plusieurs fichiers dans l’onglet “Fichiers”.
+
+Q13: Can I attach a file to an asset?
+A: Yes, each asset can be linked to one or more files in the “Files” tab.
+
+Q14 : Comment consulter les fichiers associés à un serveur ?
+R : Sélectionnez le serveur concerné puis ouvrez l’onglet “Fichiers associés”.
+
+Q14: How can I view files attached to a server?
+A: Select the desired server and open the “Attached files” tab.
+
+Q15 : Quelles informations sont stockées pour chaque actif matériel ?
+R : Les informations incluent le nom, l’emplacement, le propriétaire, la confidentialité, l’intégrité et la disponibilité.
+
+Q15: What information is stored for each hardware asset?
+A: Information includes name, location, owner, confidentiality, integrity, and availability.
+
+Q16 : Comment modifier les informations d’un actif ?
+R : Accédez à la fiche de l’actif et cliquez sur “Modifier”.
+
+Q16: How do I edit asset information?
+A: Go to the asset’s record and click “Edit”.
+
+Q17 : Est-il possible de supprimer un actif ?
+R : Oui, vous pouvez supprimer un actif via le bouton “Supprimer” dans sa fiche.
+
+Q17: Can an asset be deleted?
+A: Yes, you can delete an asset with the “Delete” button in its record.
+
+Q18 : Où trouver l’inventaire des matériels ?
+R : Dans le menu “Gestion des actifs”, section “Matériels”.
+
+Q18: Where can I find the hardware inventory?
+A: In the “Asset Management” menu, under “Hardware”.
+
+Q19 : Qui est le propriétaire d’un actif ?
+R : Le propriétaire est indiqué dans la fiche descriptive de l’actif.
+
+Q19: Who is the owner of an asset?
+A: The owner is specified in the asset’s descriptive record.
+
+Q20 : Comment rechercher un actif spécifique ?
+R : Utilisez la barre de recherche dans le module “Gestion des actifs”.
+
+Q20: How do I search for a specific asset?
+A: Use the search bar in the “Asset Management” module.
+
+Q21 : Comment signaler un risque associé à un actif ?
+R : Accédez à la fiche de l’actif, puis cliquez sur “Ajouter un risque”.
+
+Q21: How do I report a risk associated with an asset?
+A: Go to the asset’s record, then click “Add risk”.
+
+Q22 : Quels sont les niveaux de risque disponibles ?
+R : Les niveaux de risque sont “Faible”, “Modéré”, “Élevé”, “Très élevé”.
+
+Q22: What are the available risk levels?
+A: Risk levels are “Low”, “Moderate”, “High”, “Very High”.
+
+Q23 : Comment consulter la liste des risques ?
+R : Accédez au module “Gestion des risques” pour afficher la liste complète.
+
+Q23: How do I view the list of risks?
+A: Go to the “Risk Management” module to display the complete list.
+
+Q24 : Puis-je associer un plan de traitement à un risque ?
+R : Oui, chaque risque peut être lié à un ou plusieurs plans de traitement.
+
+Q24: Can I link a treatment plan to a risk?
+A: Yes, each risk can be associated with one or more treatment plans.
+
+Q25 : Quelles informations sont requises pour enregistrer un risque ?
+R : Il faut indiquer l’actif concerné, la description, la probabilité, les conséquences, et les contrôles proposés.
+
+Q25: What information is required to register a risk?
+A: You must specify the relevant asset, description, probability, consequences, and proposed controls.
+
+Q26 : Qui peut valider un risque ?
+R : Le responsable de la gestion des risques ou un administrateur valide les risques.
+
+Q26: Who can validate a risk?
+A: The risk manager or an administrator validates risks.
+
+Q27 : Comment modifier un risque existant ?
+R : Sélectionnez le risque puis cliquez sur “Modifier”.
+
+Q27: How do I edit an existing risk?
+A: Select the risk and click “Edit”.
+
+Q28 : Comment supprimer un risque ?
+R : Cliquez sur le bouton “Supprimer” dans la fiche du risque.
+
+Q28: How do I delete a risk?
+A: Click the “Delete” button in the risk record.
+
+Q29 : Où puis-je trouver les contrôles ISO correspondants à un risque ?
+R : Les contrôles ISO sont affichés dans la fiche descriptive du risque.
+
+Q29: Where can I find the corresponding ISO controls for a risk?
+A: ISO controls are displayed in the risk’s descriptive record.
+
+Q30 : Peut-on exporter la liste des risques ?
+R : Oui, il est possible d’exporter la liste au format Excel ou PDF.
+
+Q30: Can the list of risks be exported?
+A: Yes, it is possible to export the list in Excel or PDF format.
+
+Q31 : Comment planifier une nouvelle réunion ?
+R : Accédez au module “Réunions” et cliquez sur “Planifier une réunion”.
+
+Q31: How do I schedule a new meeting?
+A: Go to the “Meetings” module and click “Schedule a meeting”.
+
+Q32 : Comment ajouter un participant à une réunion ?
+R : Ouvrez la fiche de la réunion, puis ajoutez le participant via le bouton dédié.
+
+Q32: How do I add an attendee to a meeting?
+A: Open the meeting record and add the attendee via the dedicated button.
+
+Q33 : Puis-je voir la liste des participants à une réunion ?
+R : Oui, la liste des participants est visible dans la fiche de chaque réunion.
+
+Q33: Can I view the list of meeting attendees?
+A: Yes, the list of attendees is visible in each meeting record.
+
+Q34 : Comment modifier les détails d’une réunion ?
+R : Sélectionnez la réunion, puis cliquez sur “Modifier les détails”.
+
+Q34: How do I edit meeting details?
+A: Select the meeting, then click “Edit details”.
+
+Q35 : Comment supprimer une réunion ?
+R : Cliquez sur le bouton “Supprimer” dans la fiche de la réunion.
+
+Q35: How do I delete a meeting?
+A: Click the “Delete” button in the meeting record.
+
+Q36 : Puis-je exporter le calendrier des réunions ?
+R : Oui, le calendrier peut être exporté au format Excel ou PDF.
+
+Q36: Can I export the meeting calendar?
+A: Yes, the calendar can be exported in Excel or PDF format.
+
+Q37 : Comment rechercher une réunion passée ?
+R : Utilisez la barre de recherche dans le module “Réunions” et filtrez par date.
+
+Q37: How do I search for a past meeting?
+A: Use the search bar in the “Meetings” module and filter by date.
+
+Q38 : Qui peut organiser une réunion ?
+R : Tout utilisateur ayant les permissions nécessaires peut organiser une réunion.
+
+Q38: Who can organize a meeting?
+A: Any user with the necessary permissions can organize a meeting.
+
+Q39 : Peut-on inviter des personnes extérieures à l’entreprise ?
+R : Oui, il est possible d’inviter des participants externes par email.
+
+Q39: Can external people be invited to meetings?
+A: Yes, external participants can be invited via email.
+
+Q40 : Où consulter les détails d’une réunion ?
+R : Dans la fiche de la réunion, tous les détails sont consultables.
+
+Q40: Where can I view meeting details?
+A: In the meeting record, all details are available.
+
+
+Q21 : Comment consulter tous les fichiers associés à un type d’actif (ex : APPLICATION, SERVERS) ?
+R : Utilisez le filtre par type d’actif dans la section des fichiers.
+
+Q21: How do I view all files attached to a specific asset type (e.g. APPLICATION, SERVERS)?
+A: Use the asset type filter in the files section.
+
+Q22 : Puis-je télécharger un fichier attaché à un actif ?
+R : Oui, cliquez sur le nom du fichier pour télécharger.
+
+Q22: Can I download a file attached to an asset?
+A: Yes, click on the file name to download.
+
+Q23 : Comment savoir quels sont les actifs les plus critiques ?
+R : Consultez l’indicateur de criticité dans la fiche de chaque actif.
+
+Q23: How can I identify the most critical assets?
+A: Check the criticality indicator in each asset record.
+
+Q24 : Puis-je modifier le type d’un actif après sa création ?
+R : Oui, modifiez l’actif et choisissez un nouveau type dans la liste déroulante.
+
+Q24: Can I change the type of an asset after creation?
+A: Yes, edit the asset and select a new type from the dropdown.
+
+Q25 : Qu’est-ce qu’un actif dynamique ?
+R : Un actif dynamique est un actif dont les caractéristiques peuvent évoluer au fil du temps et qui sont gérés dans la table dynamic_asset_entry.
+
+Q25: What is a dynamic asset?
+A: A dynamic asset is an asset whose characteristics can change over time and is managed in the dynamic_asset_entry table.
+
+Q26 : Comment ajouter un sous-actif à un actif principal ?
+R : Dans la fiche de l’actif principal, cliquez sur “Ajouter un sous-actif”.
+
+Q26: How do I add a sub-asset to a main asset?
+A: In the main asset record, click on “Add sub-asset”.
+
+Q27 : Quelles informations sont obligatoires lors de l’ajout d’un nouvel actif ?
+R : Le nom, le type, le propriétaire et la localisation sont obligatoires.
+
+Q27: What information is required when adding a new asset?
+A: Name, type, owner, and location are required.
+
+Q28 : Comment archiver un actif qui n’est plus utilisé ?
+R : Cliquez sur “Archiver” dans la fiche de l’actif.
+
+Q28: How do I archive an asset no longer in use?
+A: Click on “Archive” in the asset record.
+
+Q29 : Peut-on associer un risque à un actif directement lors de sa création ?
+R : Oui, une section “Gestion des risques” est disponible lors de la création d’un actif.
+
+Q29: Can a risk be linked to an asset directly upon creation?
+A: Yes, a “Risk Management” section is available when creating an asset.
+
+Q30 : Où puis-je voir l’historique des modifications d’un actif ?
+R : Dans la fiche de l’actif, onglet “Historique”.
+
+Q30: Where can I see the modification history of an asset?
+A: In the asset record, under the “History” tab.
+
+Q41 : Qui peut être désigné propriétaire d’un risque ?
+R : Tout utilisateur ayant le rôle approprié peut être désigné comme propriétaire du risque.
+
+Q41: Who can be assigned as risk owner?
+A: Any user with the appropriate role can be designated as risk owner.
+
+Q42 : Comment lier un risque à plusieurs actifs ?
+R : Créez un risque et sélectionnez tous les actifs concernés dans la liste.
+
+Q42: How do I link a risk to multiple assets?
+A: Create a risk and select all relevant assets from the list.
+
+Q43 : Peut-on indiquer une probabilité de survenance pour chaque risque ?
+R : Oui, ce champ existe dans le formulaire d’ajout/modification de risque.
+
+Q43: Can probability of occurrence be set for each risk?
+A: Yes, this field exists in the risk add/edit form.
+
+Q44 : Quels sont les contrôles proposés pour atténuer un risque ?
+R : Ils figurent dans la section “Contrôles suggérés” de chaque fiche risque.
+
+Q44: What are the suggested controls to mitigate a risk?
+A: They are listed in the “Suggested controls” section of each risk record.
+
+Q45 : Comment marquer un risque comme traité ?
+R : Modifiez le statut du risque à “Traité” dans la fiche correspondante.
+
+Q45: How do I mark a risk as treated?
+A: Change the risk status to “Treated” in the respective record.
+
+Q46 : Peut-on exporter un rapport des risques par actif ?
+R : Oui, un rapport par actif est disponible dans le module d’export.
+
+Q46: Can I export a risk report by asset?
+A: Yes, an asset-based risk report is available in the export module.
+
+Q47 : Qu’est-ce qu’un plan de traitement de risque ?
+R : Un plan d’actions pour réduire ou éliminer un risque spécifique.
+
+Q47: What is a risk treatment plan?
+A: An action plan to reduce or eliminate a specific risk.
+
+Q48 : Où indiquer la date de mise en œuvre d’un contrôle ?
+R : Dans la fiche du plan de traitement, champ “Date de mise en œuvre”.
+
+Q48: Where do I indicate the implementation date of a control?
+A: In the treatment plan record, “Implementation date” field.
+
+Q49 : Peut-on avoir un historique des traitements appliqués à un risque ?
+R : Oui, l’historique est visible dans la fiche du risque.
+
+Q49: Can I view the history of treatments applied to a risk?
+A: Yes, the history is displayed in the risk record.
+
+Q50 : Comment filtrer les risques par niveau de criticité ?
+R : Utilisez le filtre “Niveau de criticité” dans le module gestion des risques.
+
+Q50: How do I filter risks by criticality level?
+A: Use the “Criticality level” filter in the risk management module.
+
+Q51 : Comment modifier la liste des participants d’une réunion après sa création ?
+R : Éditez la réunion et ajoutez/supprimez des participants.
+
+Q51: How do I edit the attendee list of a meeting after creation?
+A: Edit the meeting and add/remove attendees.
+
+Q52 : Peut-on enregistrer le compte-rendu d’une réunion ?
+R : Oui, ajoutez-le dans la section “Compte-rendu”.
+
+Q52: Can I save the minutes of a meeting?
+A: Yes, add them in the “Minutes” section.
+
+Q53 : Comment recevoir une notification avant une réunion ?
+R : Activez les notifications dans votre profil utilisateur.
+
+Q53: How do I receive a notification before a meeting?
+A: Enable notifications in your user profile.
+
+Q54 : Puis-je consulter le calendrier mensuel des réunions ?
+R : Oui, le calendrier mensuel est accessible dans le module “Réunions”.
+
+Q54: Can I view the monthly meeting calendar?
+A: Yes, the monthly calendar is available in the “Meetings” module.
+
+Q55 : Comment ajouter une réunion récurrente ?
+R : Lors de la création, sélectionnez l’option “Récurrence”.
+
+Q55: How do I add a recurring meeting?
+A: When creating the meeting, select the “Recurrence” option.
+
+Q56 : Peut-on joindre un document à une réunion ?
+R : Oui, ajoutez-le dans l’onglet “Documents”.
+
+Q56: Can I attach a document to a meeting?
+A: Yes, add it in the “Documents” tab.
+
+Q57 : Comment connaître le département d’un participant à une réunion ?
+R : Consultez la fiche du participant dans la liste des participants.
+
+Q57: How do I know the department of a meeting attendee?
+A: Check the participant’s record in the attendees list.
+
+Q58 : Puis-je inviter des utilisateurs extérieurs à mon organisation ?
+R : Oui, en entrant leur adresse e-mail dans le formulaire d’invitation.
+
+Q58: Can I invite external users to my organization’s meetings?
+A: Yes, by entering their email address in the invitation form.
+
+Q59 : Comment annuler une réunion planifiée ?
+R : Cliquez sur “Annuler la réunion” dans la fiche correspondante.
+
+Q59: How do I cancel a scheduled meeting?
+A: Click “Cancel meeting” in the respective record.
+
+Q60 : Peut-on voir l’historique des réunions passées ?
+R : Oui, l’historique est disponible dans le module “Réunions”.
+
+Q60: Can I see the history of past meetings?
+A: Yes, the history is available in the “Meetings” module.
+
+Q61 : Comment ajouter un nouveau fournisseur ?
+R : Accédez au module “Fournisseurs”, cliquez sur “Ajouter un fournisseur” et remplissez les informations demandées.
+
+Q61: How do I add a new supplier?
+A: Go to the “Suppliers” module, click “Add supplier” and fill in the required information.
+
+Q62 : Où trouver la liste de tous les fournisseurs ?
+R : Dans la section “Gestion des actifs”, cliquez sur “Fournisseurs”.
+
+Q62: Where can I find the list of all suppliers?
+A: In the “Asset Management” section, click on “Suppliers”.
+
+Q63 : Quelle information est obligatoire pour chaque fournisseur ?
+R : Le nom, le service fourni, l’adresse et le contact principal sont obligatoires.
+
+Q63: What information is required for each supplier?
+A: Name, provided service, address, and primary contact are required.
+
+Q64 : Puis-je associer un fichier à un fournisseur ?
+R : Oui, dans la fiche fournisseur, utilisez l’onglet “Fichiers”.
+
+Q64: Can I attach a file to a supplier?
+A: Yes, in the supplier record, use the “Files” tab.
+
+Q65 : Comment modifier les coordonnées d’un fournisseur ?
+R : Dans la fiche du fournisseur, cliquez sur “Modifier”.
+
+Q65: How do I edit a supplier’s contact details?
+A: In the supplier’s record, click “Edit”.
+
+Q66 : Peut-on désactiver un fournisseur sans le supprimer ?
+R : Oui, il est possible de le désactiver temporairement.
+
+Q66: Can a supplier be deactivated without deleting it?
+A: Yes, it can be temporarily deactivated.
+
+Q67 : Où trouver l’historique des échanges avec un fournisseur ?
+R : Dans l’onglet “Historique” de la fiche fournisseur.
+
+Q67: Where can I find the interaction history with a supplier?
+A: In the “History” tab of the supplier’s record.
+
+Q68 : Comment filtrer les fournisseurs par service fourni ?
+R : Utilisez le filtre “Service” dans la liste des fournisseurs.
+
+Q68: How can I filter suppliers by provided service?
+A: Use the “Service” filter in the suppliers list.
+
+Q69 : Qui peut ajouter ou modifier un fournisseur ?
+R : Seuls les utilisateurs avec le rôle “GRC” ou “Administrateur” ont ce droit.
+
+Q69: Who can add or edit a supplier?
+A: Only users with “GRC” or “Administrator” roles have this right.
+
+Q70 : Comment supprimer un fournisseur ?
+R : Cliquez sur “Supprimer” dans la fiche du fournisseur.
+
+Q70: How do I delete a supplier?
+A: Click “Delete” in the supplier’s record.
+
+Q71 : Peut-on personnaliser l’interface du système ?
+R : Oui, certaines options d’affichage sont personnalisables dans les préférences utilisateur.
+
+Q71: Can the system interface be customized?
+A: Yes, some display options are customizable in user preferences.
+
+Q72 : Comment exporter les données du système ?
+R : Utilisez le module “Export” pour générer des fichiers Excel ou PDF.
+
+Q72: How do I export system data?
+A: Use the “Export” module to generate Excel or PDF files.
+
+Q73 : Où trouver la documentation utilisateur ?
+R : Elle est accessible via le menu “Aide”.
+
+Q73: Where is the user documentation?
+A: It is available through the “Help” menu.
+
+Q74 : Le système est-il accessible sur mobile ?
+R : Oui, il est compatible avec les navigateurs mobiles.
+
+Q74: Is the system accessible on mobile?
+A: Yes, it is compatible with mobile browsers.
+
+Q75 : Comment signaler un bug ou un incident ?
+R : Cliquez sur “Signaler un problème” dans le menu d’aide.
+
+Q75: How do I report a bug or incident?
+A: Click “Report a problem” in the help menu.
+
+Q76 : Peut-on ajouter des champs personnalisés aux actifs ?
+R : Oui, via le module d’administration.
+
+Q76: Can I add custom fields to assets?
+A: Yes, through the administration module.
+
+Q77 : Comment changer la langue de l’interface ?
+R : Allez dans les paramètres utilisateur, rubrique “Langue”.
+
+Q77: How do I change the interface language?
+A: Go to user settings, under “Language”.
+
+Q78 : Où consulter les logs d’activité du système ?
+R : Dans le module “Logs”, accessible aux administrateurs.
+
+Q78: Where can I view the system activity logs?
+A: In the “Logs” module, accessible to administrators.
+
+Q79 : Le système propose-t-il des alertes automatiques ?
+R : Oui, des alertes peuvent être configurées pour certains événements.
+
+Q79: Does the system provide automatic alerts?
+A: Yes, alerts can be configured for certain events.
+
+Q80 : Comment obtenir de l’assistance technique ?
+R : Contactez le support via le formulaire de contact ou l’adresse email dédiée.
+
+Q80: How do I get technical support?
+A: Contact support via the contact form or the dedicated email address.
+
+Q81 : Comment attribuer une permission spécifique à un utilisateur ?
+R : Depuis la fiche utilisateur, ajoutez la permission souhaitée dans “Permissions”.
+
+Q81: How do I assign a specific permission to a user?
+A: From the user record, add the desired permission under “Permissions”.
+
+Q82 : Peut-on retirer une permission à un utilisateur ?
+R : Oui, cliquez sur “Retirer” à côté de la permission concernée.
+
+Q82: Can a permission be removed from a user?
+A: Yes, click “Remove” next to the relevant permission.
+
+Q83 : Un utilisateur peut-il avoir plusieurs permissions en même temps ?
+R : Oui, il est possible de cumuler plusieurs permissions.
+
+Q83: Can a user have multiple permissions at the same time?
+A: Yes, it is possible to have multiple permissions.
+
+Q84 : Qui gère les permissions dans l’organisation ?
+R : Les administrateurs et responsables de service.
+
+Q84: Who manages permissions in the organization?
+A: Administrators and service managers.
+
+Q85 : Comment consulter la liste des permissions disponibles ?
+R : Dans le module “Permissions”, accessible depuis l’administration.
+
+Q85: How can I see the list of available permissions?
+A: In the “Permissions” module, accessible from administration.
+
+Q86 : Peut-on créer des permissions personnalisées ?
+R : Oui, dans certains cas via l’administration avancée.
+
+Q86: Can custom permissions be created?
+A: Yes, in some cases via advanced administration.
+
+Q87 : Les permissions sont-elles liées au rôle utilisateur ?
+R : Oui, certains rôles donnent accès à des permissions spécifiques.
+
+Q87: Are permissions linked to user roles?
+A: Yes, some roles grant access to specific permissions.
+
+Q88 : Comment voir les permissions associées à chaque rôle ?
+R : Consultez la documentation ou le module “Rôles”.
+
+Q88: How can I see permissions associated with each role?
+A: Check the documentation or the “Roles” module.
+
+Q89 : Quelle est la différence entre rôle et permission ?
+R : Un rôle est un ensemble de permissions, la permission est un droit spécifique.
+
+Q89: What is the difference between a role and a permission?
+A: A role is a set of permissions, a permission is a specific right.
+
+Q90 : Peut-on auditer les changements de permissions ?
+R : Oui, tous les changements sont tracés dans les logs.
+
+Q90: Can permission changes be audited?
+A: Yes, all changes are logged.
+
+Q91 : Mes données sont-elles sauvegardées régulièrement ?
+R : Oui, le système effectue des sauvegardes automatiques régulières.
+
+Q91: Is my data regularly backed up?
+A: Yes, the system performs regular automatic backups.
+
+Q92 : Qui a accès à mes données personnelles ?
+R : Seuls les utilisateurs autorisés selon les permissions attribuées.
+
+Q92: Who has access to my personal data?
+A: Only authorized users according to assigned permissions.
+
+Q93 : Le système est-il conforme au RGPD/GDPR ?
+R : Oui, il respecte les exigences du RGPD.
+
+Q93: Is the system GDPR compliant?
+A: Yes, it complies with GDPR requirements.
+
+Q94 : Comment demander la suppression de mes données ?
+R : Envoyez une demande via le formulaire de contact RGPD.
+
+Q94: How do I request deletion of my data?
+A: Send a request through the GDPR contact form.
+
+Q95 : Peut-on limiter la durée de conservation des données ?
+R : Oui, la durée est configurable en administration.
+
+Q95: Can the data retention duration be limited?
+A: Yes, the duration is configurable in administration.
+
+Q96 : Qui est responsable de la sécurité des données ?
+R : Le responsable sécurité de l’organisation.
+
+Q96: Who is responsible for data security?
+A: The organization’s security officer.
+
+Q97 : Comment savoir si une fuite de données a eu lieu ?
+R : Vous serez alerté en cas d’incident de sécurité.
+
+Q97: How do I know if a data breach occurred?
+A: You will be alerted in case of a security incident.
+
+Q98 : Le système chiffre-t-il les données sensibles ?
+R : Oui, les données sensibles sont chiffrées.
+
+Q98: Does the system encrypt sensitive data?
+A: Yes, sensitive data is encrypted.
+
+Q99 : Puis-je recevoir une copie de mes données ?
+R : Oui, sur demande via le module RGPD.
+
+Q99: Can I receive a copy of my data?
+A: Yes, upon request via the GDPR module.
+
+Q100 : Que faire en cas de soupçon d’accès non autorisé ?
+R : Changez votre mot de passe et contactez le support immédiatement.
+
+Q100: What should I do if I suspect unauthorized access?
+A: Change your password and contact support immediately.
+
+Q101 : Comment accéder aux paramètres avancés du système ?
+R : Les paramètres avancés sont accessibles via le menu d’administration principal.
+
+Q101: How do I access the advanced system settings?
+A: Advanced settings are available from the main administration menu.
+
+Q102 : Peut-on planifier des sauvegardes automatiques ?
+R : Oui, la planification se fait dans la section “Sauvegardes” des paramètres avancés.
+
+Q102: Can automatic backups be scheduled?
+A: Yes, scheduling is available in the “Backups” section of advanced settings.
+
+Q103 : Comment restaurer une sauvegarde ?
+R : Sélectionnez la sauvegarde souhaitée et cliquez sur “Restaurer”.
+
+Q103: How do I restore a backup?
+A: Select the desired backup and click on “Restore”.
+
+Q104 : Peut-on déléguer l’administration à un autre utilisateur ?
+R : Oui, en attribuant le rôle “Administrateur” à l’utilisateur concerné.
+
+Q104: Can administration be delegated to another user?
+A: Yes, by assigning the “Administrator” role to the relevant user.
+
+Q105 : Où voir les statistiques d’utilisation du système ?
+R : Dans le tableau de bord d’administration (“Dashboard”).
+
+Q105: Where can I view system usage statistics?
+A: In the administration dashboard.
+
+Q106 : Comment désactiver l’accès à un module pour un groupe d’utilisateurs ?
+R : Via les paramètres de permissions de groupe dans le menu d’administration.
+
+Q106: How do I disable access to a module for a group of users?
+A: Through group permission settings in the administration menu.
+
+Q107 : Peut-on configurer des accès temporaires ?
+R : Oui, il est possible de définir une période de validité pour chaque utilisateur.
+
+Q107: Can temporary access be configured?
+A: Yes, you can set a validity period for each user.
+
+Q108 : Comment auditer les connexions au système ?
+R : Consultez les logs dans la section “Audit” du menu d’administration.
+
+Q108: How do I audit system logins?
+A: Check the logs in the “Audit” section of the admin menu.
+
+Q109 : Peut-on personnaliser le logo de l’interface ?
+R : Oui, dans les paramètres généraux.
+
+Q109: Can the interface logo be customized?
+A: Yes, in the general settings.
+
+Q110 : Comment activer l’authentification à deux facteurs (2FA) ?
+R : Activez l’option “2FA” dans les paramètres de sécurité.
+
+Q110: How do I enable two-factor authentication (2FA)?
+A: Enable the “2FA” option in security settings.
+
+Q111 : Comment lier une réunion à un ou plusieurs risques ?
+R : Dans la fiche réunion, utilisez l’onglet “Risques associés”.
+
+Q111: How can a meeting be linked to one or more risks?
+A: In the meeting record, use the “Associated risks” tab.
+
+Q112 : Peut-on restreindre l’accès à certains actifs à des utilisateurs précis ?
+R : Oui, via les permissions par actif.
+
+Q112: Can access to certain assets be restricted to specific users?
+A: Yes, via per-asset permissions.
+
+Q113 : Comment générer un rapport global incluant risques, actifs et fournisseurs ?
+R : Utilisez la fonction “Rapport global” dans le module d’export.
+
+Q113: How do I generate a global report including risks, assets, and suppliers?
+A: Use the “Global report” function in the export module.
+
+Q114 : Peut-on programmer des tâches récurrentes (ex : réunions, sauvegardes) ?
+R : Oui, via le module de planification.
+
+Q114: Can recurring tasks (e.g. meetings, backups) be scheduled?
+A: Yes, via the scheduling module.
+
+Q115 : Comment visualiser la cartographie des risques par département ?
+R : Allez dans “Gestion des risques” > “Cartographie” et filtrez par département.
+
+Q115: How do I view the risk map by department?
+A: Go to “Risk Management” > “Mapping” and filter by department.
+
+Q116 : Peut-on assigner un même utilisateur comme “propriétaire” sur plusieurs actifs ?
+R : Oui, il suffit de le sélectionner comme propriétaire sur chaque actif.
+
+Q116: Can the same user be assigned as “owner” on several assets?
+A: Yes, simply select them as owner on each asset.
+
+Q117 : Comment relier un fournisseur à un risque ?
+R : Dans la fiche risque, choisissez le fournisseur concerné dans la liste des actifs liés.
+
+Q117: How do I link a supplier to a risk?
+A: In the risk record, select the relevant supplier in the linked assets list.
+
+Q118 : Est-il possible de recevoir un rapport automatique chaque mois ?
+R : Oui, configurez la planification dans le module d’export.
+
+Q118: Is it possible to receive an automatic report each month?
+A: Yes, configure scheduling in the export module.
+
+Q119 : Comment archiver ou clore un risque traité ?
+R : Modifiez le statut du risque à “Archivé” ou “Clos”.
+
+Q119: How do I archive or close a treated risk?
+A: Change the risk status to “Archived” or “Closed”.
+
+Q120 : Peut-on intégrer le système avec d’autres outils (ex : ERP, CRM) ?
+R : Oui, via des connecteurs ou API disponibles en administration.
+
+Q120: Can the system be integrated with other tools (e.g. ERP, CRM)?
+A: Yes, via connectors or APIs available in administration.
+
+Q121 : Comment obtenir la liste des utilisateurs d’un département spécifique ?
+R : Filtrez la liste des utilisateurs par département.
+
+Q121: How can I get the list of users in a specific department?
+A: Filter the user list by department.
+
+Q122 : Peut-on exporter la liste des participants à une réunion ?
+R : Oui, via le bouton “Exporter” dans la fiche réunion.
+
+Q122: Can I export the list of meeting attendees?
+A: Yes, via the “Export” button in the meeting record.
+
+Q123 : Comment identifier les risques critiques non traités ?
+R : Utilisez le filtre “Critique” et “Non traité” dans la gestion des risques.
+
+Q123: How do I identify unaddressed critical risks?
+A: Use the “Critical” and “Unaddressed” filters in risk management.
+
+Q124 : Peut-on attribuer plusieurs propriétaires à un même actif ou risque ?
+R : Oui, sélectionnez plusieurs utilisateurs dans le champ “Propriétaire”.
+
+Q124: Can multiple owners be assigned to the same asset or risk?
+A: Yes, select multiple users in the “Owner” field.
+
+Q125 : Comment recevoir une alerte lors de la modification d’un actif ?
+R : Activez les notifications pour les modifications d’actifs.
+
+Q125: How do I receive an alert when an asset is modified?
+A: Enable notifications for asset modifications.
+
+Q126 : Où trouver le manuel d’administration du système ?
+R : Il est disponible dans la section “Documentation” ou “Aide”.
+
+Q126: Where can I find the system administration manual?
+A: It is available in the “Documentation” or “Help” section.
+
+Q127 : Quels sont les statuts possibles pour un risque ?
+R : Exemples : Identifié, En cours, Clos, Archivé, Rejeté.
+
+Q127: What are possible statuses for a risk?
+A: Examples: Identified, In progress, Closed, Archived, Rejected.
+
+Q128 : Peut-on ajouter des notes à une réunion ou un risque ?
+R : Oui, via le champ “Notes” dans la fiche concernée.
+
+Q128: Can I add notes to a meeting or risk?
+A: Yes, via the “Notes” field in the relevant record.
+
+Q129 : Comment réinitialiser les permissions d’un utilisateur ?
+R : Supprimez les permissions existantes puis réattribuez-les depuis le menu “Permissions”.
+
+Q129: How do I reset a user’s permissions?
+A: Remove existing permissions and reassign them from the “Permissions” menu.
+
+Q130 : Peut-on voir la liste des risques par fournisseur ?
+R : Oui, filtrez les risques par fournisseur lié.
+
+Q130: Can I see the list of risks by supplier?
+A: Yes, filter risks by linked supplier.
+
+Q131 : Comment intégrer des données tierces dans le système ?
+R : Utilisez l’API d’import ou les modules d’intégration prévus.
+
+Q131: How do I integrate third-party data into the system?
+A: Use the import API or the provided integration modules.
+
+Q132 : Peut-on synchroniser le calendrier des réunions avec Google Calendar ?
+R : Oui, via les options d’intégration disponibles dans “Réunions”.
+
+Q132: Can the meeting calendar be synced with Google Calendar?
+A: Yes, via the integration options available in “Meetings”.
+
+Q133 : Comment recevoir les rapports automatisés par email ?
+R : Activez l’option “Rapport automatique par email” dans les paramètres utilisateur.
+
+Q133: How do I receive automated reports by email?
+A: Enable “Automated email reports” in user settings.
+
+Q134 : Peut-on automatiser la création d’actifs à partir d’un fichier ?
+R : Oui, via l’importation de fichiers CSV ou Excel dans le module d’administration.
+
+Q134: Can asset creation be automated from a file?
+A: Yes, by importing CSV or Excel files in the admin module.
+
+Q135 : Comment connecter le système à un Active Directory ?
+R : Configurez l’intégration AD dans les paramètres de sécurité.
+
+Q135: How do I connect the system to Active Directory?
+A: Configure AD integration in security settings.
+
+Q136 : Peut-on utiliser des webhooks pour recevoir des notifications ?
+R : Oui, les webhooks peuvent être configurés dans les paramètres avancés.
+
+Q136: Can webhooks be used to receive notifications?
+A: Yes, webhooks can be set up in advanced settings.
+
+Q137 : Est-ce que le système supporte l’authentification SSO ?
+R : Oui, l’authentification unique (SSO) est disponible dans les options de connexion.
+
+Q137: Does the system support SSO authentication?
+A: Yes, Single Sign-On (SSO) is available in login options.
+
+Q138 : Comment sécuriser les accès API ?
+R : Utilisez des tokens d’authentification et limitez les droits selon les usages.
+
+Q138: How do I secure API access?
+A: Use authentication tokens and limit privileges as needed.
+
+Q139 : Peut-on auditer les accès API ?
+R : Oui, tous les accès API sont tracés dans les logs.
+
+Q139: Can API access be audited?
+A: Yes, all API accesses are logged.
+
+Q140 : Où trouver la documentation de l’API ?
+R : Dans la section “Développeurs” ou “API” de l’administration.
+
+
+
+### Q143 : Où déclarer un incident de sécurité ?
+R : Dans la section “Sécurité” ou via le formulaire dédié.
+
+Q143: Where do I report a security incident?
+A: In the “Security” section or via the dedicated form.
+
+Q146: How do I respond to a personal data access request?
+A: Use the GDPR module to generate and send the requested data.
+
+Q147 : Peut-on configurer des alertes pour les actions sensibles ?
+R : Oui, activez les alertes dans les paramètres de sécurité.
+
+Q147: Can alerts be set up for sensitive actions?
+A: Yes, enable alerts in security settings.
+
+Q148 : Comment prouver l’effacement des données après une demande ?
+R : Un rapport d’effacement est généré automatiquement.
+
+Q148: How can I prove data deletion after a request?
+A: A deletion report is generated automatically.
+
+Q149 : Peut-on consulter la liste des traitements de données en cours ?
+R : Oui, elle est disponible dans le module RGPD.
+
+Q149: Can I see the list of ongoing data processing activities?
+A: Yes, it is available in the GDPR module.
+
+Q150 : Où trouver les politiques de confidentialité de l’entreprise ?
+R : Dans la section “Aide” ou “RGPD”.
+
+Q150: Where can I find the company’s privacy policies?
+A: In the “Help” or “GDPR” section.
+
+Q151 : Quelles sont les bonnes pratiques pour la gestion des mots de passe ?
+R : Utilisez des mots de passe forts, changez-les régulièrement et n’utilisez pas le même mot de passe partout.
+
+Q151: What are best practices for password management?
+A: Use strong passwords, change them regularly, and do not reuse passwords.
+
+Q152 : Comment protéger mes fichiers sensibles ?
+R : Chiffrez vos fichiers et limitez l’accès aux utilisateurs autorisés.
+
+Q152: How can I protect my sensitive files?
+A: Encrypt your files and limit access to authorized users.
+
+Q153 : Que faire en cas de phishing ?
+R : Ne cliquez sur aucun lien suspect et informez le service IT.
+
+Q153: What should I do in case of phishing?
+A: Do not click any suspicious links and notify IT support.
+
+Q154 : Quelle fréquence recommandez-vous pour les sauvegardes ?
+R : Au moins une fois par jour pour les données critiques.
+
+Q154: How often do you recommend backups?
+A: At least once a day for critical data.
+
+Q155 : Comment sensibiliser les employés à la sécurité ?
+R : Organisez des formations régulières et diffusez des rappels de sécurité.
+
+Q155: How do I raise employee awareness about security?
+A: Organize regular training and send security reminders.
+
+Q156 : Quelles informations éviter de partager par email ?
+R : Les mots de passe, informations bancaires et données confidentielles.
+
+Q156: What information should not be shared by email?
+A: Passwords, banking info, and confidential data.
+
+Q157 : Peut-on vérifier si un fichier contient un virus avant de l’ouvrir ?
+R : Oui, utilisez un antivirus à jour.
+
+Q157: Can I check if a file contains a virus before opening it?
+A: Yes, use up-to-date antivirus software.
+
+Q158 : Comment détecter une tentative d’intrusion ?
+R : Surveillez les alertes de sécurité et analysez les logs d’accès.
+
+Q158: How can I detect an intrusion attempt?
+A: Monitor security alerts and analyze access logs.
+
+Q159 : Que faire si je perds mon accès au système ?
+R : Contactez un administrateur ou le support pour réinitialiser votre accès.
+
+Q159: What should I do if I lose access to the system?
+A: Contact an administrator or support to reset your access.
+
+Q160 : Peut-on restaurer un fichier supprimé par erreur ?
+R : Oui, si la sauvegarde automatique est activée.
+
+Q160: Can I restore a file deleted by mistake?
+A: Yes, if automatic backup is enabled.
+
+Q161 : Un employé quitte l’entreprise, comment gérer ses accès ?
+R : Désactivez ou supprimez son compte immédiatement.
+
+Q161: An employee is leaving the company, how do I manage their access?
+A: Immediately deactivate or delete their account.
+
+Q162 : Un fournisseur change de contact, comment mettre à jour l’information ?
+R : Allez dans la fiche fournisseur et modifiez les coordonnées.
+
+Q162: A supplier changes their contact person, how do I update the information?
+A: Go to the supplier record and update the contact details.
+
+Q163 : Comment ajouter un nouveau type d’actif dans le système ?
+R : Passez par l’administration pour définir un nouveau type.
+
+Q163: How do I add a new asset type to the system?
+A: Use administration to define a new type.
+
+Q164 : Un risque a été identifié lors d’une réunion, comment l’enregistrer ?
+R : Ajoutez-le dans le module “Gestion des risques” en précisant la réunion concernée.
+
+Q164: A risk was identified during a meeting, how do I record it?
+A: Add it in “Risk Management” module, specifying the meeting.
+
+Q165 : Comment retrouver toutes les réunions liées à un projet spécifique ?
+R : Filtrez les réunions par projet dans le module “Réunions”.
+
+Q165: How do I find all meetings linked to a specific project?
+A: Filter meetings by project in the “Meetings” module.
+
+Q166 : Plusieurs utilisateurs signalent un accès lent, que faire ?
+R : Vérifiez l’état du serveur et contactez le support si besoin.
+
+Q166: Multiple users report slow access, what should I do?
+A: Check the server status and contact support if needed.
+
+Q167 : Comment planifier un audit de sécurité dans le système ?
+R : Utilisez le module “Audit” pour définir une date et des participants.
+
+Q167: How do I schedule a security audit in the system?
+A: Use the “Audit” module to set a date and participants.
+
+Q168 : Peut-on recevoir une alerte si un utilisateur tente d’accéder à un module non autorisé ?
+R : Oui, activez les alertes d’accès non autorisé dans les paramètres de sécurité.
+
+Q168: Can I receive an alert if a user tries to access an unauthorized module?
+A: Yes, enable unauthorized access alerts in security settings.
+
+Q169 : Comment générer un historique des modifications pour un actif ou un risque ?
+R : Rendez-vous dans la fiche concernée, onglet “Historique”.
+
+Q169: How do I generate a modification history for an asset or risk?
+A: Go to the relevant record, “History” tab.
+
+Q170 : Peut-on automatiser la notification des réunions à venir ?
+R : Oui, activez les rappels automatiques dans les paramètres utilisateur.
+
+Q170: Can upcoming meeting notifications be automated?
+A: Yes, enable automatic reminders in user settings.
+
+Q171 : Comment contacter le support technique ?
+R : Par email, téléphone ou via le formulaire d’assistance intégré.
+
+Q171: How do I contact technical support?
+A: By email, phone or the integrated support form.
+
+Q172 : Où trouver l’état des serveurs du système ?
+R : Dans le module “Serveurs” ou la page d’état du système.
+
+Q172: Where can I find the system server status?
+A: In the “Servers” module or the system status page.
+
+Q173 : Peut-on demander une évolution ou une nouvelle fonctionnalité ?
+R : Oui, via le formulaire “Demande d’évolution” dans l’aide.
+
+Q173: Can I request a feature or improvement?
+A: Yes, via the “Feature request” form in help.
+
+Q174 : Comment signaler un dysfonctionnement ?
+R : Cliquez sur “Signaler un incident” dans le module de support.
+
+Q174: How do I report a malfunction?
+A: Click “Report an incident” in the support module.
+
+Q175 : Le système propose-t-il une FAQ intégrée ?
+R : Oui, accessible depuis le menu “Aide”.
+
+Q175: Does the system offer a built-in FAQ?
+A: Yes, available from the “Help” menu.
+
+Q176 : Où consulter les dernières mises à jour du système ?
+R : Dans la section “Actualités” ou “Mises à jour” de l’interface.
+
+Q176: Where can I see the latest system updates?
+A: In the “News” or “Updates” section of the interface.
+
+Q177 : Comment être informé des prochaines maintenances ?
+R : Abonnez-vous aux notifications dans votre profil.
+
+Q177: How do I get notified about upcoming maintenance?
+A: Subscribe to notifications in your profile.
+
+Q178 : Peut-on suggérer une amélioration de la documentation ?
+R : Oui, via le module d’aide ou en contactant le support documentation.
+
+Q178: Can I suggest a documentation improvement?
+A: Yes, via help module or by contacting documentation support.
+
+Q179 : Comment savoir si une fonctionnalité est en cours de développement ?
+R : Consultez la roadmap dans la section “Actualités”.
+
+Q179: How do I know if a feature is under development?
+A: Check the roadmap in the “News” section.
+
+Q180 : Où trouver les coordonnées du support ?
+R : Dans la section “Aide”, rubrique “Contact”.
+
+Q180: Where can I find support contact details?
+A: In the “Help” section, under “Contact”.
+
+---
+
+Q181 : Le système est-il multi-utilisateur ?
+R : Oui, plusieurs utilisateurs peuvent accéder simultanément.
+
+Q181: Is the system multi-user?
+A: Yes, multiple users can access it simultaneously.
+
+Q182 : Peut-on personnaliser les notifications reçues ?
+R : Oui, chaque utilisateur peut choisir ses types de notifications.
+
+Q182: Can I customize the notifications I receive?
+A: Yes, each user can choose their notification types.
+
+Q183 : Existe-t-il une fonction de recherche globale ?
+R : Oui, la barre de recherche globale est disponible en haut de l’interface.
+
+Q183: Is there a global search function?
+A: Yes, the global search bar is available at the top of the interface.
+
+Q184 : Le système offre-t-il un mode sombre ?
+R : Oui, activez-le dans les paramètres d’affichage.
+
+Q184: Does the system offer a dark mode?
+A: Yes, enable it in display settings.
+
+Q185 : Peut-on imprimer directement une fiche actif ou risque ?
+R : Oui, utilisez la fonction “Imprimer” dans la fiche.
+
+Q185: Can I print an asset or risk record directly?
+A: Yes, use the “Print” function in the record.
+
+Q186 : Comment savoir qui a modifié un document ?
+R : Consultez le champ “Dernière modification” dans la fiche du document.
+
+Q186: How do I know who modified a document?
+A: Check the “Last modified by” field in the document record.
+
+Q187 : Peut-on recevoir un récapitulatif hebdomadaire par email ?
+R : Oui, activez les rapports hebdomadaires dans vos préférences.
+
+Q187: Can I receive a weekly summary by email?
+A: Yes, enable weekly reports in your preferences.
+
+Q188 : Le système permet-il le téléchargement groupé de fichiers ?
+R : Oui, sélectionnez plusieurs fichiers puis cliquez sur “Télécharger”.
+
+Q188: Does the system allow batch file downloads?
+A: Yes, select multiple files then click “Download”.
+
+Q189 : Comment changer la photo de profil utilisateur ?
+R : Allez dans votre profil et cliquez sur “Changer la photo”.
+
+Q189: How do I change my user profile picture?
+A: Go to your profile and click “Change picture”.
+
+Q190 : Peut-on consulter la liste des actions récentes sur un actif ?
+R : Oui, via l’onglet “Historique” de la fiche actif.
+
+Q190: Can I view recent actions on an asset?
+A: Yes, via the “History” tab in the asset record.
+
+
+
+Q1 : Qu’est-ce que la norme ISO 27005 ?
+R : La norme ISO/IEC 27005 est un standard international qui fournit des lignes directrices pour la gestion des risques liés à la sécurité de l’information, dans le cadre d’un Système de Management de la Sécurité de l’Information (SMSI).
+
+Q1: What is the ISO 27005 standard?
+A: ISO/IEC 27005 is an international standard that provides guidelines for information security risk management within an Information Security Management System (ISMS).
+
+Q2 : Quel est l’objectif principal de la gestion des risques selon ISO 27005 ?
+R : L’objectif est d’identifier, évaluer et traiter les risques pour garantir la protection des actifs informationnels.
+
+Q2: What is the main objective of risk management according to ISO 27005?
+A: The objective is to identify, assess, and treat risks to ensure the protection of information assets.
+
+Q3 : Quelles sont les étapes clés du processus de gestion des risques dans ISO 27005 ?
+R : Les étapes incluent : définition du contexte, identification des risques, analyse des risques, évaluation des risques, traitement des risques, acceptation des risques, communication, et surveillance/revue.
+
+Q3: What are the key steps in the risk management process in ISO 27005?
+A: Steps include: context establishment, risk identification, risk analysis, risk evaluation, risk treatment, risk acceptance, communication, and monitoring/review.
+
+Q4 : Comment identifie-t-on les risques selon ISO 27005 ?
+R : On identifie les risques en analysant les menaces, les vulnérabilités, les actifs et les impacts potentiels sur l’organisation.
+
+Q4: How are risks identified according to ISO 27005?
+A: Risks are identified by analyzing threats, vulnerabilities, assets, and potential impacts on the organization.
+
+Q5 : Quelle est la différence entre menace et vulnérabilité ?
+R : Une menace est un événement ou une action potentielle pouvant causer un dommage, tandis qu’une vulnérabilité est une faiblesse qui pourrait être exploitée par une menace.
+
+Q5: What is the difference between a threat and a vulnerability?
+A: A threat is a potential event or action that could cause harm, while a vulnerability is a weakness that could be exploited by a threat.
+
+Q6 : Comment évalue-t-on la vraisemblance et l’impact d’un risque ?
+R : ISO 27005 recommande de définir des critères pour la vraisemblance (probabilité) et l’impact, puis d’attribuer des niveaux à chaque risque identifié.
+
+Q6: How are likelihood and impact of a risk assessed?
+A: ISO 27005 recommends defining criteria for likelihood (probability) and impact, then assigning levels to each identified risk.
+
+Q7 : Que signifie “analyse quantitative” et “analyse qualitative” des risques ?
+R : L’analyse qualitative classe les risques par catégories (faible, moyen, élevé), tandis que l’analyse quantitative utilise des valeurs numériques ou monétaires.
+
+Q7: What do “qualitative” and “quantitative” risk analysis mean?
+A: Qualitative analysis categorizes risks (low, medium, high), while quantitative analysis uses numerical or monetary values.
+
+Q8 : Quelles sont les options de traitement des risques selon ISO 27005 ?
+R : Les options sont : réduire (atténuer), éviter, transférer (assurer ou sous-traiter), ou accepter le risque.
+
+Q8: What are the risk treatment options according to ISO 27005?
+A: Options are: reduce (mitigate), avoid, transfer (insure or outsource), or accept the risk.
+
+Q9 : Comment décide-t-on d’accepter un risque ?
+R : Un risque peut être accepté si son niveau est jugé tolérable par la direction, en fonction de la politique de sécurité et du contexte.
+
+Q9: How is a risk accepted?
+A: A risk may be accepted if its level is considered tolerable by management, based on the security policy and context.
+
+Q10 : Que doit contenir un plan de traitement des risques ?
+R : Il doit décrire les mesures à mettre en place, les responsables, le calendrier et les critères de réussite.
+
+Q10: What should a risk treatment plan contain?
+A: It should describe the measures to be implemented, responsible parties, timeline, and success criteria.
+
+Q11 : Pourquoi est-il important de surveiller les risques ?
+R : Parce que l’environnement, les menaces ou les vulnérabilités évoluent et que de nouveaux risques peuvent apparaître.
+
+Q11: Why is it important to monitor risks?
+A: Because the environment, threats, or vulnerabilities evolve and new risks may arise.
+
+Q12 : Comment s’effectue la revue des risques selon ISO 27005 ?
+R : La revue implique de réévaluer régulièrement les risques, d’ajuster les traitements et d’intégrer les enseignements tirés des incidents ou des changements.
+
+Q12: How is risk review carried out according to ISO 27005?
+A: Review involves regularly reassessing risks, adjusting treatments, and incorporating lessons learned from incidents or changes.
+
+Q13 : Donnez un exemple de risque typique dans la gestion de la sécurité de l’information.
+R : Perte de données sensibles due à un phishing réussi.
+
+Q13: Give an example of a typical risk in information security management.
+A: Loss of sensitive data due to successful phishing.
+
+Q14 : Quel rôle joue la direction dans la gestion des risques ISO 27005 ?
+R : La direction valide la politique de gestion des risques, fixe l’appétence au risque et prend les décisions d’acceptation ou de traitement.
+
+Q14: What role does management play in ISO 27005 risk management?
+A: Management validates the risk management policy, sets risk appetite, and makes acceptance or treatment decisions.
+
+Q15 : Comment ISO 27005 s’intègre-t-elle avec les autres normes ISO 27001 et ISO 27002 ?
+R : ISO 27005 fournit la méthodologie pour gérer les risques, ISO 27001 définit les exigences du SMSI, et ISO 27002 donne des contrôles de sécurité à mettre en œuvre.
+
+Q15: How does ISO 27005 integrate with other standards like ISO 27001 and ISO 27002?
+A: ISO 27005 provides the risk management methodology, ISO 27001 defines ISMS requirements, and ISO 27002 provides security controls to implement.
+
+
